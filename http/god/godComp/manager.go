@@ -1,0 +1,8 @@
+
+package httpgodcomp
+
+
+
+func AddManager(){
+
+}

@@ -1,0 +1,4 @@
+package httpmanager
+
+func HttpManagerHanlder() {
+}
